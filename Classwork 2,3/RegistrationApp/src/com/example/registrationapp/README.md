@@ -1,4 +1,4 @@
-The whole project starts from the Classwork 2,3 directory
+The whole project starts from the RegistrationApp directory
 Therefore to download start from that directory 
 Ignore Temp files
 
