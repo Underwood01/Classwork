@@ -1,6 +1,7 @@
 IMPORTANT TO READ✅
 
-CAT 3 Process on how to get and download files.
+CAT 3 📄
+Process on how to get and download files.
 
 If you want to download the whole project start from this directory(RegistrationApp)
 
